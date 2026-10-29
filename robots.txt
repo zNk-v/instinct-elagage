@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://znk-v.github.io/instinct-elagage/sitemap.xml
